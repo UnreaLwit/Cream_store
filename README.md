@@ -2,7 +2,7 @@
 
 Интернет-магазин натуральной косметики для лица и тела.
 
-[Ссылка на сайт](https://your-website-url.com)
+Ссылка на сайт: https://unrealwit.github.io/Cream_store/
 
 ## Технологии
 
